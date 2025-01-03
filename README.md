@@ -42,7 +42,11 @@ Program meminta pengguna untuk memasukkan:
 - Nomor telepon (phone)
 - Email (email)
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/851a5e7c8aa868b283b20e73e8f13c88dfbe3036/Cuplikan%20layar%202025-01-03%20190557.png)
 
+## Step 5 :
+
+Input dari pengguna dikirim ke fungsi validate_registration untuk diperiksa validitasnya.
 
 
 
