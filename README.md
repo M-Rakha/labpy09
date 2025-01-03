@@ -26,7 +26,11 @@ Fungsi ini digunakan untuk memvalidasi data pendaftaran. Parameter name, phone, 
 
 - Validasi Email : Memeriksa apakah email mengandung simbol (@) dan (.) Jika tidak, pesan kesalahan ditambahkan.
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/b99617dc866bc0bb3d1777502a19fc1552751371/Cuplikan%20layar%202025-01-03%20190103.png)
 
+## Step 3 :
+
+Jika terdapat kesalahan (list errors tidak kosong), setiap pesan kesalahan ditampilkan satu per satu, Jika tidak ada kesalahan, program menampilkan pesan bahwa data pendaftaran valid.
 
 
 
