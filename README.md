@@ -14,4 +14,8 @@ Selain itu, Method init adalah konstruktor yang dijalankan saat objek kelas dibu
 
 Fungsi ini digunakan untuk memvalidasi data pendaftaran. Parameter name, phone, dan email adalah input pengguna. Sebuah list kosong bernama errors disiapkan untuk menyimpan pesan kesalahan jika ada.
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/3354ebbd78634aaa4d46f2fb3be4c4a3391900d6/Cuplikan%20layar%202025-01-03%20185122.png)
+
+- Validasi Nama : re.match(r'^[A-Za-z\s]+$', name) memeriksa apakah nama hanya berisi huruf (A-Z atau a-z) dan spasi (\s), Jika nama tidak sesuai dengan pola tersebut, pesan kesalahan ditambahkan ke list errors.
+
 
