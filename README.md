@@ -22,6 +22,13 @@ Fungsi ini digunakan untuk memvalidasi data pendaftaran. Parameter name, phone, 
 
 - Validasi Nomor Telepon : phone.isdigit() memeriksa apakah input nomor telepon hanya terdiri dari angka, Jika ada karakter lain (seperti huruf atau simbol), pesan kesalahan ditambahkan.
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/3b232cc99b9c976e4c462f579e9d32e5a4ff6f3e/Cuplikan%20layar%202025-01-03%20185835.png)
+
+- Validasi Email : Memeriksa apakah email mengandung simbol (@) dan (.) Jika tidak, pesan kesalahan ditambahkan.
+
+
+
+
 
 
 
