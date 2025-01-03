@@ -32,6 +32,17 @@ Fungsi ini digunakan untuk memvalidasi data pendaftaran. Parameter name, phone, 
 
 Jika terdapat kesalahan (list errors tidak kosong), setiap pesan kesalahan ditampilkan satu per satu, Jika tidak ada kesalahan, program menampilkan pesan bahwa data pendaftaran valid.
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/5da5d258df6e1dd661e6027622348a803854ddeb/Cuplikan%20layar%202025-01-03%20190324.png)
+
+## Step 4 :
+
+Program meminta pengguna untuk memasukkan:
+
+- Nama lengkap (name)
+- Nomor telepon (phone)
+- Email (email)
+
+
 
 
 
