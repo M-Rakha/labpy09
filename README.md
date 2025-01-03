@@ -48,7 +48,11 @@ Program meminta pengguna untuk memasukkan:
 
 Input dari pengguna dikirim ke fungsi validate_registration untuk diperiksa validitasnya.
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/6d52d4909e53a951134c96a1c0a2ea6de1dcf2ea/Cuplikan%20layar%202025-01-03%20190757.png)
 
+## Step 6 :
+
+Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbagai kemungkinan yang ada.
 
 
 
