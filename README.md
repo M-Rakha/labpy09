@@ -18,4 +18,11 @@ Fungsi ini digunakan untuk memvalidasi data pendaftaran. Parameter name, phone, 
 
 - Validasi Nama : re.match(r'^[A-Za-z\s]+$', name) memeriksa apakah nama hanya berisi huruf (A-Z atau a-z) dan spasi (\s), Jika nama tidak sesuai dengan pola tersebut, pesan kesalahan ditambahkan ke list errors.
 
+![gambar](https://github.com/M-Rakha/labpy09/blob/5f7c307113caeadec3ae06c476fa1d21106f8c40/Cuplikan%20layar%202025-01-03%20185440.png)
+
+- Validasi Nomor Telepon : phone.isdigit() memeriksa apakah input nomor telepon hanya terdiri dari angka, Jika ada karakter lain (seperti huruf atau simbol), pesan kesalahan ditambahkan.
+
+
+
+
 
